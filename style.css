@@ -167,10 +167,6 @@
     font-size: 0.92rem;
 }
 
-.phone-notification-instagram {
-    background: rgba(255, 255, 255, 0.4);
-}
-
 .phone-notification-instagram .phone-notification-sender,
 .phone-notification-instagram .phone-notification-text {
     display: inline;
@@ -181,6 +177,7 @@
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    margin-top: 0.2rem;
 }
 
 .phone-notification-instagram .phone-notification-sender::after {
