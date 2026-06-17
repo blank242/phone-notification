@@ -1,0 +1,11 @@
+{
+    "display_name": "폰 알림",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "css": "style.css?v=1781675751",
+    "js": "index.js?v=1781675751",
+    "author": "blank242",
+    "version": "1.0.0",
+    "auto_update": false
+}
